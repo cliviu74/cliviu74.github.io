@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://liviu.chiribuca.ro/posts/here-we-go/</loc>
-    <lastmod>2019-12-12T12:56:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liviu.chiribuca.ro/posts/</loc>
-    <lastmod>2019-12-12T12:56:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liviu.chiribuca.ro/</loc>
-    <lastmod>2019-12-12T12:56:57+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://liviu.chiribuca.ro/tags/about/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
@@ -34,6 +19,11 @@
   
   <url>
     <loc>https://liviu.chiribuca.ro/tags/</loc>
+    <lastmod>2014-07-11T10:54:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liviu.chiribuca.ro/</loc>
     <lastmod>2014-07-11T10:54:24+02:00</lastmod>
   </url>
   
